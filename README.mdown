@@ -2,6 +2,6 @@ Heyalda
 ===
 Prepping for the Heyalda tutorial: Making Games with Cocos2d & Chipmunk Physics
 
-The files in this repo were obtained from [Jim Range of Heyalda](http://heyalda.com/presentation-making-games-with-cocos2d-chipmunk-physics/).
+The files in this repo were provided by [Jim Range of Heyalda](http://heyalda.com/presentation-making-games-with-cocos2d-chipmunk-physics/).
 Thanks, Jim!
  
